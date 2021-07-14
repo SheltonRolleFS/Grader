@@ -29,5 +29,4 @@ end
 
 myGrade = Grader.new
 print(myGrade.getLetterGrade())
-puts "------------------------"
 			
